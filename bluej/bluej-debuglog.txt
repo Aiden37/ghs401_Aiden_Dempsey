@@ -1,0 +1,11 @@
+BlueJ run started: Mon Sep 23 13:19:27 PDT 2019
+BlueJ version 3.1.1
+Java version 1.7.0_45
+Virtual machine: Java HotSpot(TM) Client VM 24.45-b08 (Oracle Corporation)
+Running on: Windows 7 6.1 (x86)
+Java Home: C:\Program Files (x86)\BlueJ\jdk\jre
+----
+Opening project: \\ghs-file1.lvjusd.k12.ca.us\Student Data\aiden.dem\panda
+1569269971482: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
