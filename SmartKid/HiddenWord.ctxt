@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=HiddenWord(java.lang.String)
+comment1.params=hint
+comment1.target=java.lang.String\ getHint(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
