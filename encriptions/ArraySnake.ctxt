@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=ArraySnake(int[])
+comment1.params=height\ width
+comment1.target=int[][]\ horizontalSnake(int,\ int)
+comment2.params=height\ width
+comment2.target=int[][]\ verticalSnake(int,\ int)
+numComments=3
